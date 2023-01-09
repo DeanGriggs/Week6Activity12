@@ -1,0 +1,8 @@
+C:\dean\School\cst-150\cleaned up\Week 6\Act12\ACT12 Es and Ts\ACT12 Es and Ts\bin\Debug\ACT12 Es and Ts.exe.config
+C:\dean\School\cst-150\cleaned up\Week 6\Act12\ACT12 Es and Ts\ACT12 Es and Ts\bin\Debug\ACT12 Es and Ts.exe
+C:\dean\School\cst-150\cleaned up\Week 6\Act12\ACT12 Es and Ts\ACT12 Es and Ts\bin\Debug\ACT12 Es and Ts.pdb
+C:\dean\School\cst-150\cleaned up\Week 6\Act12\ACT12 Es and Ts\ACT12 Es and Ts\obj\Debug\ACT12 Es and Ts.csproj.AssemblyReference.cache
+C:\dean\School\cst-150\cleaned up\Week 6\Act12\ACT12 Es and Ts\ACT12 Es and Ts\obj\Debug\ACT12 Es and Ts.csproj.SuggestedBindingRedirects.cache
+C:\dean\School\cst-150\cleaned up\Week 6\Act12\ACT12 Es and Ts\ACT12 Es and Ts\obj\Debug\ACT12 Es and Ts.csproj.CoreCompileInputs.cache
+C:\dean\School\cst-150\cleaned up\Week 6\Act12\ACT12 Es and Ts\ACT12 Es and Ts\obj\Debug\ACT12 Es and Ts.exe
+C:\dean\School\cst-150\cleaned up\Week 6\Act12\ACT12 Es and Ts\ACT12 Es and Ts\obj\Debug\ACT12 Es and Ts.pdb
